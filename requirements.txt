@@ -1,0 +1,12 @@
+# Milestone 1 — audio basics + stem separation with Demucs
+torch>=2.1
+torchaudio>=2.1
+demucs==4.0.1
+librosa>=0.10
+soundfile>=0.12
+numpy
+matplotlib
+jupyterlab
+ipykernel
+# optional: MUSDB18 sample tracks for measuring separation quality (SDR)
+musdb>=0.4
